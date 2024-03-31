@@ -1,0 +1,1 @@
+    window.configurerow(0, minsize=400)
